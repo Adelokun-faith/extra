@@ -1,0 +1,20 @@
+.extra {
+    height: 300px;
+    width: 800px;
+    background-color: silver;
+    color: black;
+    text-align: center;
+}
+
+#search {
+    width: 500px;
+}
+
+a{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+}
